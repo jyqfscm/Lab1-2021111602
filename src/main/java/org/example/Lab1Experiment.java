@@ -283,7 +283,7 @@ public class Lab1Experiment {
         try {
             pic.writeAll(graphStream, filePath);
         } catch (IOException e) {
-            e.printStackTrace();
+//            e.printStackTrace();
         }
     }
 }
